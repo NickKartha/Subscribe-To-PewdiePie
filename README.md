@@ -6,7 +6,8 @@
 
 
 ## Projects to Check Out
- + https://github.com/arjndr/bich-lasagna
+ + Lasagna: https://github.com/arjndr/bich-lasagna
+ + NFC Unsub Ring: https://www.youtube.com/watch?v=AEe-b6jrung
     
 ---
 
