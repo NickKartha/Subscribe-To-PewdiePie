@@ -8,6 +8,14 @@
 ## Projects to Check Out
  + Lasagna: https://github.com/arjndr/bich-lasagna
  + NFC Unsub Ring: https://www.youtube.com/watch?v=AEe-b6jrung
+ 
+## References in Popular Culture
+ + Steven Universe : Pink Lasagna
+ + Caryminati: Bye Pewdiepie
+ 
+## Sub-Reddits
+ + /r/PewdiepieSubmissions
+ + /r/foundFelix
     
 ---
 
